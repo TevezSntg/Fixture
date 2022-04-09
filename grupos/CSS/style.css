@@ -1,0 +1,66 @@
+ul{
+  list-style-type: none;
+  text-decoration-color: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:visited{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+  color: #8bdaf4;
+}
+
+#fixequcam{
+  text-align: center;
+  text-decoration: none;
+  background-color: #95c87f;
+}
+
+#fixequcam ul li a{
+  color: white;
+}
+
+#grupos tr td a{
+  color: #8bdaf4;
+}
+
+#qatar{
+  text-align: center;
+}
+
+h1{
+  font-family: arial;
+  border:;
+  text-align: center;
+  color: white;
+}
+
+h2{
+  color: white;
+  font-family: arial;
+  text-align: center;
+}
+
+h3{
+  color: white;
+  font-size: 10pt;
+  font-family: arial;
+  text-align: center;
+}
+
+table{
+  text-align: center;
+  color: white;
+  font-family: arial;
+  border: 1;
+}
+
+*{
+  background-color: #13442e;
+}
